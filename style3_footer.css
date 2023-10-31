@@ -1,0 +1,7 @@
+.foot{
+    display: flex;
+    height: 5vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #286c77;
+}
